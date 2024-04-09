@@ -1,7 +1,6 @@
 # Project Proposal
 # DeFi Money Transfer DApp with Cartesi SDK
 ![Cartesi Image](./images/cartesi.jpg)
-<!-- ![Cartesi Image](./images/cartesi%20(1).jpg) -->
 ## Introduction
 
 The decentralized finance (DeFi) space has witnessed remarkable growth, offering innovative solutions to traditional financial services. However, one persistent challenge in global transactions is the requirement for Know Your Customer (KYC) compliance, which poses barriers to entry for many individuals. Our proposed project aims to address this challenge by developing a DeFi application that enables frictionless money transfers across the world without the need for KYC verification. Leveraging the Cartesi SDK, we seek to optimize transaction costs and facilitate currency conversion, making financial inclusion a reality for all.
