@@ -1,4 +1,4 @@
-# DeFi-Moneyp-Dapp
+# DeFi-Money-Dapp
 
 ![Cartesi Image](./proposal/images/cartesi%20(1).jpg)
 
